@@ -8,7 +8,7 @@
 <img align="left" alt="MATLAB" width="40px" style="padding-right-10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right-10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="OpenCV" width="40px" style="padding-right-10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right-10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" style="padding-right-10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
 <!--
 **ecdry/ecdry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
